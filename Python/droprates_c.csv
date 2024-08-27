@@ -1,0 +1,5 @@
+,From Step,To Step,Drop Rate
+0,start,step_1,0.1386929948283968
+1,step_1,step_2,0.07453354505756253
+2,step_2,step_3,0.06584450402144772
+3,step_3,confirm,0.11410859832395821

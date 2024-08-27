@@ -1,0 +1,11 @@
+,Transition,Mean_Time
+0,Transition,"0      start_to_step_1
+1     step_1_to_step_2
+2     step_2_to_step_3
+3    step_3_to_confirm
+Name: Transition, dtype: object"
+1,Mean_Time,"0   0 days 00:00:35.078223135
+1   0 days 00:00:37.127517517
+2   0 days 00:01:26.386212624
+3   0 days 00:01:44.903813349
+Name: Mean_Time, dtype: timedelta64[ns]"
